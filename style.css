@@ -1,0 +1,18 @@
+#apps{
+    background-color: blue;
+}
+#games{
+    background-color: cornflowerblue;
+    height: 500px;
+   
+        
+}
+#chatbot{
+    background-color: darkgreen;
+}
+img{
+    transition: transform .2s;
+}
+img:hover{
+    transform: scale(.9);
+}
